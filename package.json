@@ -1,0 +1,34 @@
+{
+	"name": "internal-slot",
+	"version": "0.0.0",
+	"description": "ES spec-like internal slots",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ljharb/internal-slot.git"
+	},
+	"keywords": [
+		"internal",
+		"slot",
+		"internal slot",
+		"ecmascript",
+		"es",
+		"spec",
+		"private",
+		"data",
+		"private data",
+		"weakmap"
+	],
+	"author": "Jordan Harband <ljharb@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ljharb/internal-slot/issues"
+	},
+	"homepage": "https://github.com/ljharb/internal-slot#readme",
+	"engines": {
+		"node": ">= 0.4"
+	}
+}
