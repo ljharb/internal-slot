@@ -48,9 +48,9 @@
 		"tape": "^4.12.0"
 	},
 	"dependencies": {
-		"es-abstract": "^1.16.2",
+		"es-abstract": "^1.17.0-next.1",
 		"has": "^1.0.3",
-		"side-channel": "^1.0.1"
+		"side-channel": "^1.0.2"
 	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
