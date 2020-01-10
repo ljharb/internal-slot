@@ -48,7 +48,7 @@
 		"tape": "^5.0.0-next.3"
 	},
 	"dependencies": {
-		"es-abstract": "^1.17.0-next.1",
+		"es-abstract": "^1.17.0",
 		"has": "^1.0.3",
 		"side-channel": "^1.0.2"
 	},
