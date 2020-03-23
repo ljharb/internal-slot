@@ -45,7 +45,7 @@
 		"foreach": "^2.0.5",
 		"object-inspect": "^1.7.0",
 		"safe-publish-latest": "^1.1.4",
-		"tape": "^5.0.0-next.4"
+		"tape": "^5.0.0-next.5"
 	},
 	"dependencies": {
 		"es-abstract": "^1.17.4",
