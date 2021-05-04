@@ -51,7 +51,7 @@
 		"tape": "^5.2.2"
 	},
 	"dependencies": {
-		"get-intrinsic": "^1.1.0",
+		"get-intrinsic": "^1.1.1",
 		"has": "^1.0.3",
 		"side-channel": "^1.0.4"
 	},
