@@ -2,7 +2,7 @@
 
 var test = require('tape');
 var inspect = require('object-inspect');
-var forEach = require('foreach');
+var forEach = require('for-each');
 
 var SLOT = require('../');
 
