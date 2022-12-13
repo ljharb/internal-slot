@@ -32,6 +32,7 @@ test('assert', function (t) {
 	var o = {};
 	SLOT.set(o, 'x');
 	t.doesNotThrow(function () { SLOT.assert(o, 'x'); }, 'existent slot noops');
+	t['throws'](function () { SLOT.assert(o, 'y'); }, 'thing with a slot throws on a nonexistent slot');
 
 	t.end();
 });
