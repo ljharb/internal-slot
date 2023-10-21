@@ -53,7 +53,7 @@
 		"tape": "^5.7.2"
 	},
 	"dependencies": {
-		"get-intrinsic": "^1.2.0",
+		"get-intrinsic": "^1.2.2",
 		"has": "^1.0.3",
 		"side-channel": "^1.0.4"
 	},
