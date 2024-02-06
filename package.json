@@ -1,6 +1,6 @@
 {
 	"name": "internal-slot",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "ES spec-like internal slots",
 	"main": "index.js",
 	"scripts": {
